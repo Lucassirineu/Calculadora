@@ -1,3 +1,3 @@
 ﻿# Calculadora
 
-Uma calcualdora funcional e prática 
+Uma calculadora funcional e prática 
